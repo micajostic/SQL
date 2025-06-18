@@ -1,10 +1,10 @@
-# Proyectos SQL – Diseño de Bases de Datos
+# Proyectos SQL – Diseño de bases de datos
 
 Este repositorio contiene ejercicios prácticos de diseño de bases de datos realizados en SQL como parte de la materia correspondiente en la facultad.
 
 ## Contenido
 
-### 📁 1. Alquiler de Automóviles - Ejercicio 1 BASE DE DATOS.sql
+### 📁 1. Alquiler de automóviles - Ejercicio 1 BASE DE DATOS.sql
 Diseño de una base de datos orientada a gestionar reservas de una empresa de alquiler de coches.  
 Los principales requisitos implementados son:
 
@@ -16,7 +16,7 @@ Los principales requisitos implementados son:
 - Se contemplan clientes sin reservas.
 - Todas las entidades tienen claves alfanuméricas únicas.
 
-### 📁 2. Carreteras y Tramos - Ejercicio 4 BASE DE DATOS.sql
+### 📁 2. Carreteras y tramos - Ejercicio 4 BASE DE DATOS.sql
 Diseño de una base de datos que modela la información sobre carreteras de un país.  
 Características:
 
